@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Raj Gupta</h1>
 <h3 align="center">A passionate developer with a keen interest in Data Structures and Algorithms, JavaScript, and Frontend technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekraj00&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekraj00" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekraj00" alt="abhishekraj00" /></a> </p>
-
 - 🔭 I’m currently working on **Uk Post Office**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
